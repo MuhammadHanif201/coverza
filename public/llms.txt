@@ -1,0 +1,36 @@
+# Coverza
+
+> Coverza is an online store in Pakistan selling iPhone and Samsung mobile covers (phone cases): clear, silicone, MagSafe, shockproof, leather, glitter and card-holder designs. All orders support Cash on Delivery nationwide, delivery in 2–4 working days, free delivery above Rs 2,000 and a 7-day free exchange.
+
+## Key facts
+- Country served: Pakistan only (all cities)
+- Brands covered: Apple iPhone (iPhone 11 to iPhone 17 Pro Max, iPhone Air) and Samsung Galaxy (S25, S24, A and Z series)
+- Price range: Rs 999 to Rs 2,799
+- Payment: Cash on Delivery, JazzCash, Easypaisa, Visa/Mastercard
+- Delivery: 2–4 working days; Rs 200 flat, free above Rs 2,000
+- Returns: free exchange within 7 days for wrong model, damage or defects
+- Ordering: website checkout or WhatsApp
+
+## Main pages
+- [All covers](/covers): every product with filters
+- [iPhone covers](/brand/iphone): choose your iPhone model
+- [Samsung covers](/brand/samsung): choose your Galaxy model
+- [Sale](/sale): discounted covers
+- [FAQs](/faq): delivery, COD, returns and supported models
+- [Shipping & returns](/shipping-returns): full policy
+- [Track order](/track-order)
+
+## Categories
+- [Clear covers](/category/clear)
+- [Silicone covers](/category/silicone)
+- [MagSafe covers](/category/magsafe)
+- [Shockproof covers](/category/shockproof)
+- [Leather covers](/category/leather)
+- [Glitter covers](/category/glitter)
+- [Card holder covers](/category/card-holder)
+
+## Popular models
+- [iPhone 17 Pro Max covers](/covers/iphone-17-pro-max)
+- [iPhone 16 Pro Max covers](/covers/iphone-16-pro-max)
+- [Galaxy S25 Ultra covers](/covers/galaxy-s25-ultra)
+- [Galaxy S24 Ultra covers](/covers/galaxy-s24-ultra)
